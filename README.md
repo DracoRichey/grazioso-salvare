@@ -3,7 +3,7 @@
 An interactive data analytics dashboard built for a rescue animal training organization, enabling staff to filter and identify candidate animals for search-and-rescue operations based on breed, age, and training suitability.
 
 ## 📸 Screenshot
-*(Add a screenshot of the running dashboard here)*
+![Dashboard Screenshot](dashboard.png)
 
 ## 🛠️ Tech Stack
 
